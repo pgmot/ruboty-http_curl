@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/ruboty-http_curl.svg)](http://badge.fury.io/rb/ruboty-http_curl)
+
 # Ruboty::curl
 
 An Ruboty Handler + Actions to curl.
