@@ -8,6 +8,16 @@ An Ruboty Handler + Actions to curl.
 
 ## Installation
 
+On Ubuntu, the dependencies can be satisfied by installing the following packages:
+```
+$ sudo apt-get install libcurl3 libcurl3-gnutls libcurl4-openssl-dev
+```
+
+On RedHat:
+```
+$ sudo yum install ruby-devel libcurl-devel openssl-devel
+```
+
 Add this line to your application's Gemfile:
 
 ```ruby
